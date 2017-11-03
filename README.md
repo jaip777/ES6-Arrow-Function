@@ -1,1 +1,3 @@
 # ES6-Arrow-Function
+
+From what I have learned about the arrow function from watching the videos and reading through https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions, is essentially a shorter way to initiate variables in the code. The benefits are that it uses a shorter syntax, you don't need to use "this" statements. However, the arrow function is not always used by developpers who are writing their own code. Personally, I find the arrow function to be a little too short for syntax, making it difficult for outside readers to follow your code. I will see how I can use it in my code if I feel that it would be more efficient.
